@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+# Saeed Shirani Personal Portfolio Website
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+## Im a data/BI Analyst 
